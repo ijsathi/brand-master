@@ -1,0 +1,11 @@
+.f {
+    height: 70px;
+    background-color: rgba(48, 44, 44, 0.664);
+}
+
+@media only screen and (max-width:679px) {
+    
+    .f {
+        height: 70px;
+    }
+}
